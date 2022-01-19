@@ -28,7 +28,6 @@ const styles = StyleSheet.create({
     },
     calculatorContainer: {
         flex: 9,
-        
         paddingHorizontal: 20,
         justifyContent: 'flex-end'
     },
